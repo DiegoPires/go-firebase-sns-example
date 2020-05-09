@@ -23,3 +23,5 @@ To add a device to amazon, need to run the device with the firebase setup, and g
 Having an endpoint a manual test can be done to validate
 
 This is the Go example of how handle stuff, but there's a JAVA SDK too: https://docs.aws.amazon.com/sns/latest/dg/mobile-platform-endpoint.html
+
+For the go stuff: https://docs.aws.amazon.com/sdk-for-go/v1/developer-guide/using-sns-with-go-sdk.html
