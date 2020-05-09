@@ -1,6 +1,6 @@
-#Firebase
+# Firebase
 
-##Setup
+## Setup
 
 To create a firebase project and add it to an android device: https://firebase.google.com/docs/android/setup?authuser=0
 
